@@ -4,9 +4,7 @@ import time
 
 n=5
 
-print('\t\t\t\t\t\t\t\t\t\t\t\t')
-
-print('*')
+# draw the right arrow
 
 for i in range(0,7):
 
@@ -19,6 +17,7 @@ for i in range(7,1,-1):
 	print()
 time.sleep(2)
 os.system('cls')
+#draw the upper arrow
 # Number of rows
 n=6
 
