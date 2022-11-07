@@ -13,8 +13,8 @@ if(choise==1):
 	while True:
 		userName= (input("Enter your user name "))
 		password= int(input("Enter your password "))
-		if(userName=="ahmed" and password==1234):
-			print("welcome MR ahmed")
+		if(userName=="ayat" and password==1234):
+			print("welcome MR ayat")
 			print("Tell me how can I help you")
 			print("=========================")
 			print("1-Add New Product")
