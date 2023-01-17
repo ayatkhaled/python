@@ -1,0 +1,12 @@
+while(x= *1)
+{ x=y+2&;
+	cout<<"hello";
+} auto
+x=l;
+x2
+ac
+A
+z
+c
+m
+M
