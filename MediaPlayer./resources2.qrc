@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images2">
+        <file>icons/back.png</file>
+        <file>icons/fast-forward.png</file>
+        <file>icons/icons8-open-file-folder-48.png</file>
+        <file>icons/pause (1).png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play (1).png</file>
+        <file>icons/play.png</file>
+        <file>icons/play-button (1).png</file>
+        <file>icons/play-button.png</file>
+        <file>icons/squares.png</file>
+        <file>icons/stop.png</file>
+    </qresource>
+</RCC>
