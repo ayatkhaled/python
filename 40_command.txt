@@ -1,0 +1,153 @@
+1  sudo su
+
+    2  ls
+
+    3  cp move.py Documents
+
+    4  cd Documents/
+
+    5  ls
+
+    6  cd
+
+    7  tree
+
+    8  sudo apt install tree
+
+    9  tree
+
+   10  mkdir f2
+
+   11  touch file.txt
+
+   12  cp file.txt f2
+
+   13  cd f2
+
+   14  ls
+
+   15  cd
+
+   16  cp -r f2 f1
+
+   17  tree
+
+   18  cd f1
+
+   19  ls
+
+   20  cd f2
+
+   21  cd
+
+   22  cp -r f2 f1
+
+   23  cd f1
+
+   24  ls
+
+   25  cd
+
+   26  cd f2
+
+   27  ls
+
+   28  cd
+
+   29  touch file.txt
+
+   30  cp -n file.txt f2 
+
+   31  cd f2
+
+   32  ls
+
+   33  cp -i file.txt f2 
+
+   34  cd
+
+   35  cp -i file.txt f2 
+
+   36  cd f2
+
+   37  ls
+
+   38  cd 
+
+   39  mv f2 f1
+
+   40  mv -r f2 f1
+
+   41  mv --help
+
+   42  mv -r f2 f1
+
+   43  mv  f2 f1
+
+   44  tree -L 2
+
+   45  tree -L 1
+
+   46  mkdir -p f1/f2/f3
+
+   47  cd f1
+
+   48  tree
+
+   49  mkdir l2 /{f4,f5}
+
+   50  mkdir-p l2 /{f4,f5}
+
+   51  mkdir -p l2 /{f4,f5}
+
+   52  mkdir -p l2/{f4,f5}
+
+   53  cd l2
+
+   54  tree
+
+   55  cd
+
+   56  cd f1
+
+   57  rm -r l2
+
+   58  tree
+
+   59  rmdir *
+
+   60  cd f2
+
+   61  rmdir *
+
+   62  rm *
+
+   63  cd ..
+
+   64  ls
+
+   65  rmdir *
+
+   66  rm *
+
+   67  ls
+
+   68  sudo mkdir f3
+
+   69  cd /home
+
+   70  cd
+
+   71  cd f1
+
+   72  rm -rv f3
+
+   73  ls
+
+   74  rm -rv f3
+
+   75  vim hello.txt
+
+   76  less hello.txt
+
+   77  history >> history.txt
